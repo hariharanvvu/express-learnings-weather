@@ -1,7 +1,15 @@
 # express-learnings-weather
 
-Need to install express by following command
+To get started need to install the npm modules by running following command in terminal
 
-npm i express
+npm install
 
-Also to use this project load npm modules in local to make it work!
+Then to run the application run following command
+
+node src/app.js
+
+Then we can see the app working on following link
+
+http://localhost:8080/
+
+We can run ctrl+c after checking our work in terminal to stop the server.
