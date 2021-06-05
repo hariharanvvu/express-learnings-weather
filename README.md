@@ -1,5 +1,7 @@
 # express-learnings-weather
 
+Node js with Express and Handlebars to create sites
+
 To get started need to install the npm modules by running following command in terminal
 
 npm install
